@@ -12,7 +12,4 @@ public class Datos {
         System.out.println("\nDatos generales alumno(a): "+NumCon);
         System.out.println("Hola");
     }
-    
-    //Se crean Métodos
-    
 }
